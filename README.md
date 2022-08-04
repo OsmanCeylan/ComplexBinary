@@ -20,5 +20,6 @@ It is sufficient to change the **"number"** variable in the code at the end of t
 
 ## Extra 
 You can access the speech of the author of the book, Tariq Jamil, at the SAI Conference 2014 program from the video below.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NP_BfTYPxKE/0.jpg)](https://www.youtube.com/watch?v=NP_BfTYPxKE&t=909s)
 

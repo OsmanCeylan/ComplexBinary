@@ -5,7 +5,9 @@ This repository contains Python code that converts a reel number into equivalent
 ![](https://images-na.ssl-images-amazon.com/images/I/41ww5FsI--L._SX331_BO1,204,203,200_.jpg)
 
 DOI:10.1007/978-81-322-0854-9
+
 ISBN: 978-81-322-0853-2
+
 [Publication] : (https://www.researchgate.net/publication/268019454_Complex_binary_number_system_Algorithms_and_circuits)
 
 ## Algorithm
